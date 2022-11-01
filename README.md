@@ -1,0 +1,2 @@
+# totalizacaoparalelacodigoaberto
+ script_coleta_RDV_TSE
